@@ -1,0 +1,52 @@
+/* {
+    border: 2px solid red;
+}*/
+
+#firstPart {
+    background-color: #1f2937;
+    max-width: 940px;
+    color: rgb(255, 255, 255);
+}
+
+.LOGO {
+    position: relative;
+    font-size: 24px;
+    left: 50px;
+    font-weight: bold;
+}
+
+.linkOne, 
+.linkTwo,
+.linkThree {
+    font-size: 13px;
+}
+
+.linkThree {
+    position: relative;
+    left: 500px;
+}
+
+.linkTwo {
+    position: relative;
+    left: 470px;
+}
+
+.linkOne {
+    position: relative;
+    left: 440px;
+}
+
+.firstButton {
+    position: relative;
+    background-color: #3882F6;
+    border: #1f2937;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 100px;
+    border-radius: 8px;
+}
+
