@@ -5,6 +5,7 @@
 #firstPart {
     background-color: #1f2937;
     max-width: 940px;
+    height: 400px;
     color: rgb(255, 255, 255);
 }
 
@@ -46,7 +47,38 @@
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    left: 100px;
+    left: 50px;
+    top: 60px;
     border-radius: 8px;
 }
 
+.caption {
+    position: relative;
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+    /*border: 1px solid red;*/
+    top: 60px;
+    left: 50px;
+    max-width: 320px;
+}
+
+.forimage {
+    position: relative;
+    background-color: rgb(77, 89, 114);
+    padding: 70px;
+    padding-top: 100PX;
+    padding-bottom: 100PX;
+    width: 300px;
+    /*border: 1px solid red;*/
+    text-align: center;
+    left: 470px;
+    top: -170px;
+}
+
+.someText {
+    position: relative;
+    max-width: 400px;
+    top: 60px;
+    left: 50px;
+}
