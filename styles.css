@@ -4,7 +4,7 @@
 
 #firstPart {
     background-color: #1f2937;
-    max-width: 940px;
+    max-width: 6000px;
     height: 400px;
     color: rgb(255, 255, 255);
 }
@@ -69,7 +69,8 @@
     padding: 70px;
     padding-top: 100PX;
     padding-bottom: 100PX;
-    width: 300px;
+    max-width: 300px;
+    /*width: 300px;*/
     /*border: 1px solid red;*/
     text-align: center;
     left: 470px;
@@ -82,3 +83,52 @@
     top: 60px;
     left: 50px;
 }
+
+
+
+
+#secondPart {
+    position: relative;
+    border: 1px solid red;
+    height: 300px;
+}
+
+.Titleofthesecondpart {
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    /*border: 1px solid orange;*/
+    text-align: center;
+}
+
+.fourboxes {
+    /*border: 1px solid red;*/
+}
+
+.one, .two,
+.three, .four {
+    position: absolute;
+    border: 1px solid black;
+    padding: 50px;
+    top: 100px;
+    border:1px solid #3882F6;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.one {
+    left: 200px;
+}
+
+.two {
+    left: 350px;
+}
+
+.three {
+    left: 500px;
+}
+
+.four {
+    left: 650px;
+}
+
