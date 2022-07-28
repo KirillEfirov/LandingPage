@@ -113,6 +113,7 @@ h1 {
     font-size: 36px;
     /*border: 1px solid orange;*/
     text-align: center;
+    padding: 20px;
 }
 
 .fourboxes {
@@ -132,18 +133,18 @@ h1 {
 }
 
 .one {
-    left: 200px;
+    left: 700px;
 }
 
 .two {
-    left: 350px;
+    left: 830px;
 }
 
 .three {
-    left: 500px;
+    left: 970px;
 }
 
 .four {
-    left: 650px;
+    left: 1100px;
 }
 
